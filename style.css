@@ -84,15 +84,15 @@ ul {
   color: gold;
 }
 
-form {
-  margin-left: 50px;
-  margin-right: 50px;
-  text-align: center;
-}
 label {
   color: gold;
 }
 
 svg {
   fill: white;
+}
+
+.question {
+  height: 200px;
+  width: 250px;
 }
