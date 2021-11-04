@@ -118,6 +118,14 @@ padding: 1em;
   padding: 1em;
 }
 
+.aboutIMG {
+  float: left;
+  margin-right: 15px;
+  width: 400px;
+  height: 325px;
+  border-radius: 5px;
+  padding: 1em;
+}
 .caption {
   background-color: rgb(63, 0, 0);
   padding: 10px;
