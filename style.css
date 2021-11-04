@@ -110,6 +110,15 @@ color: #f1f1f1;
   padding: 1em;
 }
 
+.art {
+  float: left;
+  margin-right: 15px;
+  width: 300px;
+  height: 300px;
+  border-radius: 5px;
+  padding: 1em;
+}
+
 .caption {
   background-color: rgb(63, 0, 0);
   padding: 10px;
