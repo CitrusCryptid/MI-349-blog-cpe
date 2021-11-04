@@ -26,7 +26,8 @@ h3 {
 }
 
 h4 {
-  text-align: center;
+  position: sticky;
+  text-align: left;
   color: limegreen;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
@@ -127,11 +128,3 @@ padding: 1em;
   color: #fff;
 }
 
-.navimg {
-  float: left;
-  margin-right: 15px;
-  width: 258px;
-  height: 94px;
-  border-radius: 5px;
-  padding: 1em;
-}
