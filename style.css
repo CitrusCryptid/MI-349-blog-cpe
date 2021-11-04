@@ -127,3 +127,11 @@ padding: 1em;
   color: #fff;
 }
 
+.navimg {
+  float: left;
+  margin-right: 15px;
+  width: 258px;
+  height: 394px;
+  border-radius: 5px;
+  padding: 1em;
+}
